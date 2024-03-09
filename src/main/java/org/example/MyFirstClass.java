@@ -19,13 +19,5 @@ public class MyFirstClass {
         String hobby=scanner.nextLine();
 
         System.out.println("Your hobby is " + hobby );
-
-
-
-
-
-
-
-
     }
 }
